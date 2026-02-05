@@ -1,51 +1,63 @@
-# 📜 Internship Certificates – Chiranth K J  
+<h1 align="center">📜 Internship Certificates Portfolio</h1>
 
-This repository contains my verified internship completion certificates for recruiter reference and portfolio validation.
+<h3 align="center">Chiranth K J | Business & Data Analyst</h3>
+
+<p align="center">
+  <a href="https://github.com/Chirugow"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/chiranthkj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://chirugow.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome"></a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
-Entry-level Business & Data Analyst with hands-on experience in data analysis, data cleaning, MIS reporting, KPI tracking, and dashboard development using Excel, SQL, Python, Tableau, and Power BI.
 
-🔗 Portfolio: https://chirugow.github.io  
-🔗 GitHub: https://github.com/Chirugow  
-🔗 LinkedIn: https://www.linkedin.com/in/chiranthkj/  
+Entry-level **Business & Data Analyst** with hands-on experience in **data analysis, dashboard development, KPI tracking, MIS reporting, and business insights** using **Excel, SQL, Python, Tableau, and Power BI**.  
+
+This repository contains my **internship certificates for recruiter verification and portfolio reference**.
 
 ---
 
-## 📂 Internship Certificates  
+## 🏆 Internship Certificates  
 
 ---
 
 ### 🔹 Business Analyst Intern – Ai Variant  
-**Duration:** October 2025 – January 2026  
+**📅 Duration:** October 2025 – January 2026  
 
-**Skills Used:**  
-- Power BI Dashboard Development  
+**💡 Skills Used:**  
+- Power BI Dashboards  
 - KPI Tracking & Business Reporting  
 - Sales & Crowdfunding Data Analysis  
-- Data Cleaning, Trend & Segment Analysis  
+- Trend, Segment, and Country-wise Analysis  
 
-📜 Certificate Preview:  
-
-![Business Analyst Certificate](AIvariant.png)
+<p align="center">
+  <img src="AIvariant.png" width="700">
+</p>
 
 ---
 
 ### 🔹 Web Development Intern – SRISADGURU Hypertechnologies Pvt. Ltd  
-**Duration:** March 2025 – May 2025  
+**📅 Duration:** March 2025 – May 2025  
 
-**Skills Used:**  
+**💡 Skills Used:**  
 - Python, R, Excel for Data Analysis  
 - Data Cleaning & Validation  
-- MIS Reporting & KPI Support  
+- MIS Reporting  
 - Backend Data Processing  
 
-📜 Certificate Preview:  
-
-![Web Development Certificate](Webdevelopement.jpg)
+<p align="center">
+  <img src="WebDevelopment.jpg" width="700">
+</p>
 
 ---
 
-## ⭐ Note  
-This repository is created for recruiter verification and professional portfolio purposes.
+## 📫 Contact  
+- 📧 Email: chiranthgowda50@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/chiranthkj/  
+- 🌐 Portfolio: https://chirugow.github.io  
+- 💻 GitHub: https://github.com/Chirugow  
+
+---
+
+⭐ *This repository is created for professional verification and portfolio showcasing.*
