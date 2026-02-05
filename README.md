@@ -43,7 +43,7 @@ Entry-level Business & Data Analyst with hands-on experience in data analysis, d
 
 📜 Certificate Preview:  
 
-![Web Development Certificate](https://github.com/Chirugow/Certificate/raw/main/WebDevelopmentCertificate.jpg)
+![Web Development Certificate](Webdevelopement.jpg)
 
 ---
 
