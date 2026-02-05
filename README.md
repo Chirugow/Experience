@@ -15,31 +15,37 @@ Entry-level Business & Data Analyst with hands-on experience in data analysis, d
 
 ## 📂 Internship Certificates  
 
+---
+
 ### 🔹 Business Analyst Intern – Ai Variant  
-**Duration:** Oct 2025 – Jan 2026  
-**Key Skills:**  
+**Duration:** October 2025 – January 2026  
+
+**Skills Used:**  
 - Power BI Dashboard Development  
 - KPI Tracking & Business Reporting  
 - Sales & Crowdfunding Data Analysis  
-- Data Cleaning and Trend Analysis  
+- Data Cleaning, Trend & Segment Analysis  
 
-📄 Certificate Link:  
-https://github.com/Chirugow/Certificate/blob/main/BACertificate.png  
+📜 Certificate Preview:  
+
+![Business Analyst Certificate](https://github.com/Chirugow/Certificate/raw/main/BACertificate.png)
 
 ---
 
 ### 🔹 Web Development Intern – SRISADGURU Hypertechnologies Pvt. Ltd  
-**Duration:** Mar 2025 – May 2025  
-**Key Skills:**  
+**Duration:** March 2025 – May 2025  
+
+**Skills Used:**  
 - Python, R, Excel for Data Analysis  
 - Data Cleaning & Validation  
 - MIS Reporting & KPI Support  
 - Backend Data Processing  
 
-📄 Certificate Link:  
-https://github.com/Chirugow/Certificate/blob/main/WebDevelopmentCertificate.jpg  
+📜 Certificate Preview:  
+
+![Web Development Certificate](https://github.com/Chirugow/Certificate/raw/main/WebDevelopmentCertificate.jpg)
 
 ---
 
 ## ⭐ Note  
-This repository is created for verification and recruiter reference purposes only.
+This repository is created for recruiter verification and professional portfolio purposes.
