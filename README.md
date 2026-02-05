@@ -28,7 +28,7 @@ Entry-level Business & Data Analyst with hands-on experience in data analysis, d
 
 📜 Certificate Preview:  
 
-![Business Analyst Certificate](https://github.com/Chirugow/Certificate/raw/main/BACertificate.png)
+![Business Analyst Certificate](AIvariant.png)
 
 ---
 
