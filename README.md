@@ -57,7 +57,3 @@ This repository contains my **internship certificates for recruiter verification
 - 💼 LinkedIn: https://www.linkedin.com/in/chiranthkj/  
 - 🌐 Portfolio: https://chirugow.github.io  
 - 💻 GitHub: https://github.com/Chirugow  
-
----
-
-⭐ *This repository is created for professional verification and portfolio showcasing.*
