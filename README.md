@@ -47,7 +47,7 @@ This repository contains my **internship certificates for recruiter verification
 - Backend Data Processing  
 
 <p align="center">
-  <img src="WebDevelopment.jpg" width="700">
+  <img src="Webdevelopement.jpg" width="700">
 </p>
 
 ---
